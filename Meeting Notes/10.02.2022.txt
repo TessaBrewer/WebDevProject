@@ -1,0 +1,22 @@
+Team Registration - 20 Feb
+	-Find a team name
+		- 3 names per person before Sunday meeting
+	-Find time to take team picture
+	-Page for that - Marcie
+
+Progress Report - 2 Mar
+	MySQL Database - Tess
+		- List of previous orders
+			- Include the prices stuff was bought at
+
+	Wireframe
+		- time?
+			- Figure this out before next week
+			- Sunday over Saturday
+				- Early if on Sunday
+			- 11AM Sunday
+
+	Extras
+		Recommendation Feature
+			- "People buy these together"
+				- AI (rule finding?)
